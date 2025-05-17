@@ -9,3 +9,29 @@
 #### Pre-requisite: 20CYS203 - Operating System and 20CYS204 - Database Management System
 
 #### Course Instructor:  Ramaguru R, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
+
+### :books: Course Outcome
+
+| CO#  | CO Description |
+|------|----------------|
+| CO1 | Classify and describe the architecture and taxonomy of parallel and distributed computing, including shared and distributed memory, and data and task parallel computing |
+| CO2 | Characterize the distinctions between Infrastructure, Platform and Software as a Service (IaaS, PaaS, SaaS) abstractions, and Public and Private Clouds, and analyze their advantages and disadvantages |
+| CO3 | Exploring Hadoop clusters and Peer to Peer Systems |
+
+### :watch: Course Plan and Status
+
+### Evaluation Criteria
+
+| Component | Marks |
+|:---------:|:-----:|
+|  Quizzes  | 4 + 4 |
+| Certifications | 7 + 7 |
+| Lab Evaluations | 4 + 4 | 
+| Mid-Term Examination | 30 | 
+| End Semester | 40 | 
+
+### Dates and Deadlines
+
+| Course Start | 18 - Jun - 2025 | Deadline | 
+|--------------|-----------------|:--------:|
+
