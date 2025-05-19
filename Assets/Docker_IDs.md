@@ -58,7 +58,7 @@
 | CB.EN.U4CYS22053    | Rathnesh R                                | [rathneshr](https://hub.docker.com/u/rathneshr) |
 | CB.EN.U4CYS22055    | Ramraj S                                  | [RamrajS](https://hub.docker.com/u/RamrajS) |
 | CB.EN.U4CYS22056    | Reddicherla Thanuj                        | [thanujj](https://hub.docker.com/u/thanujj) |
-| CB.EN.U4CYS22057    | S Mohana Vamsi                            | [](https://hub.docker.com/u/) |
+| CB.EN.U4CYS22057    | S Mohana Vamsi                            | [mohanvamsi06](https://hub.docker.com/u/mohanvamsi06) |
 | CB.EN.U4CYS22059    | Saride Someswara Sai Sri Chakri           | [chakri07](https://hub.docker.com/u/chakri07) |
 | CB.EN.U4CYS22060    | Shree Harini T                            | [parzimes](https://hub.docker.com/u/parzimes) |
 | CB.EN.U4CYS22061    | Sree Sharvesh S S                         | [sharvesh27](https://hub.docker.com/u/sharvesh27) |
@@ -75,5 +75,5 @@
 | CB.EN.U4CYS22072    | Rudra Sri Lakshmi                         | [srilakshmi2277](https://hub.docker.com/u/srilakshmi2277) |
 | CB.EN.U4CYS22073    | Vishal R S                                | [vichushan](https://hub.docker.com/u/vichushan) |
 | CB.EN.U4CYS22074    | B. Vijay Nishanth                         | [vijaynishanth07](https://hub.docker.com/u/vijaynishanth07) |
-| CB.EN.U4CYS22075    | Vishal S                                  | [](https://hub.docker.com/u/) |
+| CB.EN.U4CYS22075    | Vishal S                                  | [vishalyeskay](https://hub.docker.com/u/vishalyeskay) |
 | CB.EN.U4CYS22076    | Tangella Sree Chandan                     | [chandan22076](https://hub.docker.com/u/chandan22076) |
