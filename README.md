@@ -20,6 +20,20 @@
 
 ### :watch: Course Plan and Status
 
+| **Lecture No.** |  **Topic**                                  | **Remarks**                                      |   **Reference Video(s)** |
+|:---------------:|---------------------------------------------|--------------------------------------------------|:-------------------------:|
+|     1           | Introduction to Distributed Systems         |                                                  |    [YouTube Video](https://www.youtube.com/watch?v=dX2PSA0si5g) |
+|     X           | Clock Synchronization                       |                                                  |    [YouTube Video](https://www.youtube.com/watch?v=wBrjiQXduJY) |
+|     X           | Checkpoint & Rollback Recovery             |                                                  |    [YouTube Video](https://www.youtube.com/watch?v=drj5zwhawiY) |
+|     X           | Cloud Computing                             |                                                  |    [YouTube Video - 1](https://www.youtube.com/watch?v=NzZXz3fJf6o) <br/> [YouTube Video - 2](https://www.youtube.com/watch?v=SqG-b5E9vHs) <br/> [YouTube Video - 3](https://www.youtube.com/watch?v=lOh2x-UACaU) |
+|     X           | Cloud Computing: Deployment Models          |                                                  |    [YouTube Video](https://www.youtube.com/watch?v=4xrYN2Ecmas) |
+|     X           | Role of Virtualization                      |                                                  |    [YouTube Video](https://www.youtube.com/watch?v=R4spydpBbYk) |
+|     X           | Introduction to Docker Container            |                                                  |    [YouTube Video](https://www.youtube.com/watch?v=ImKcT5G7HaQ) |
+|     X           | MapReduce                                   |                                                  |    [YouTube Video - 1](https://www.youtube.com/watch?v=XWNEhv-b2PM) <br/> [YouTube Video - 2](https://www.youtube.com/watch?v=EqYHnB9aNdQ) <br/> [YouTube Video - 3](https://www.youtube.com/watch?v=ENYSofxVJ1U) |
+|     X           | HDFS                                        |                                                  |    [YouTube Video](https://www.youtube.com/watch?v=S8Ioz8rDv_Y) |  
+|     X           | Cloud Security                              |                                                  |    [YouTube Video - 1](https://www.youtube.com/watch?v=LcAPj95KeSA) <br/> [YouTube Video - 2](https://www.youtube.com/watch?v=5QxzlIESCG4) <br/> [YouTube Video - 3](https://www.youtube.com/watch?v=KOH13vkv6VU) |
+|     X           | IoT Cloud                                   |                                                  |    [YouTube Video](https://www.youtube.com/watch?v=gIPdoP8t1lY) |
+
 ### Evaluation Criteria
 
 | Component | Marks |
