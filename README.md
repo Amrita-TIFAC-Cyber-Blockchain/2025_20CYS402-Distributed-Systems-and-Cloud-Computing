@@ -46,6 +46,34 @@
 
 ### Dates and Deadlines
 
-| Course Start | 18 - Jun - 2025 | Deadline | 
-|--------------|-----------------|:--------:|
+|             Course Start             | 18 - Jun - 2025 | Deadline | 
+|--------------------------------------|:---------------:|:--------:|
+| Quiz - 1                             | W3 |                       |
+| Lab Evaluation - 1                   | W5 |                       |    
+| Quiz - 2                             | W8 |                       |
+| Mid-Term Examination                 | W9 |                       |
+| End Semester Examination             | W17 |                      |
+| Publication of Results               | Nov - 2025 |               |
+
+#### Lab Schedule 
+
+| Lab Number   |     Date         |         Exercise         | 
+|:------------:|:----------------:|:------------------------:|
+|    BT-L1     |     W2           |  []()     |
+|    BT-L2     |     W3           |  []() |
+|    BT-L3     |     W4           |  []()                    |
+|    BT-LE1    |     W5           |                          |
+|    BT-L4     |     W6           |                          |
+|    BT-L5     |     W7           |                          |
+|    BT-LR     |     W8           |                          |
+
+### Text Book
+1. Andrew S. Tannenbaum and Maarten van Steen, **Distributed Systems: Principles and Paradigms**, Third Edition, Prentice Hall, 2017.
+2. Ronald L. Krutz, Russell Dean Vines. **Cloud Security: A comprehensive Guide to Secure Cloud Computing**, Wiley India 2010.
+   
+### References
+1. Ajay D. Kshemkalyani and Mukesh Singhal, **Distributed Computing: Principles, Algorithms, and Systems**, Cambridge University Press, 2011.
+2. Garg VK, Garg VK. **Elements of distributed computing**. John Wiley & Sons; 2002.
+3. George Coulouris, Jean Dollimore, Tim Kindberg and Gordon Blair, **Distributed Systems: Concepts and Design**, Fifth Edition, Pearson Education, 2017.
+4. Fokkink W. **Distributed algorithms: an intuitive approach**. Second Edition, MIT Press; 2018
 
