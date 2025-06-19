@@ -37,10 +37,10 @@
 ### Evaluation Criteria
 
 | Component | Marks |
-|:---------:|:-----:|
-|  Quizzes  | 3 + 3 + 4 |
-| Certifications | 5 + 6 |
-| Lab Evaluations | 4 + 5 | 
+|:---------|:-----:|
+| Quizzes | 3 + 3 + 4 |
+| Lab Evaluation | 4 + 4 | 
+| Palo Alto Academy Certification | 6 + 6 | 
 | Mid-Term Examination | 30 | 
 | End Semester | 40 | 
 
