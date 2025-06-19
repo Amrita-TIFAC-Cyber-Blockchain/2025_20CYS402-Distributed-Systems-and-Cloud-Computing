@@ -2,7 +2,7 @@
     <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/.github/blob/main/profile/img/AVV_CYS_Logo.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
-# 20CYS402 - Distributed Systems and Cloud Computing
+# 20CYS402 - Distributed Systems and Cloud Computing ![](https://img.shields.io/badge/-Live-green)
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-DSCC-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-72-gold)
 
@@ -38,9 +38,9 @@
 
 | Component | Marks |
 |:---------:|:-----:|
-|  Quizzes  | 4 + 4 |
-| Certifications | 7 + 7 |
-| Lab Evaluations | 4 + 4 | 
+|  Quizzes  | 3 + 3 + 4 |
+| Certifications | 5 + 6 |
+| Lab Evaluations | 4 + 5 | 
 | Mid-Term Examination | 30 | 
 | End Semester | 40 | 
 
