@@ -15,8 +15,8 @@
 | CB.EN.U4CYS22008    | Arul Sujith S                             | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22009    | Asrita NL                                 | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22010    | Aadhithya Sivakumar                       | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22011    | Akshit Singh                              | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22012    | Avi Nair                                  | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22011    | Akshit Singh                              | [![](https://img.shields.io/badge/-Not_Registered-darkred)]() |
+| CB.EN.U4CYS22012    | Avi Nair                                  | [![](https://img.shields.io/badge/-Not_Registered-darkred)]() |
 | CB.EN.U4CYS22013    | B M Sai Sathvik                           | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22014    | Boddu Prem Kumar                          | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22015    | Burla Rushyendra Reddy                    | [![](https://img.shields.io/badge/-Date-)]() |
@@ -26,7 +26,7 @@
 | CB.EN.U4CYS22019    | Chinni Nagasree Hansica                   | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22020    | Deepak Kumar S                            | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22021    | Dharshika S                               | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22023    | G Hamsini                                 | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22023    | G Hamsini                                 | [![](https://img.shields.io/badge/-Not_Registered-darkred)]() |
 | CB.EN.U4CYS22024    | G Vettrivel                               | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22025    | Gunateet Dev                              | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22026    | Hemadhri P C                              | [![](https://img.shields.io/badge/-Date-)]() |
@@ -53,7 +53,7 @@
 | CB.EN.U4CYS22048    | Palakurty Roopak Naga Venkata Sree Sai    | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22049    | Pavan Shanmukha Madhav Gunda              | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22050    | R M Naren Adithya                         | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22051    | R Sruthi                                  | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22051    | R Sruthi                                  | [![](https://img.shields.io/badge/-Not_Registered-darkred)]() |
 | CB.EN.U4CYS22052    | Rahul Shankar V                           | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22053    | Rathnesh R                                | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22055    | Ramraj S                                  | [![](https://img.shields.io/badge/-Date-)]() |
@@ -65,10 +65,10 @@
 | CB.EN.U4CYS22062    | Shravan Krishnan.G                        | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22063    | Vajjula Satya Siddardha                   | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22064    | Yallanuru Kishan Sai                      | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22065    | Kolluru Sai Supraj                        | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22065    | Kolluru Sai Supraj                        | [![](https://img.shields.io/badge/-Not_Registered-darkred)]() |
 | CB.EN.U4CYS22066    | Parvathi S                                | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22067    | Amita Narayanan Kutty                     | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22068    | Mukesh R                                  | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22068    | Mukesh R                                  | [![](https://img.shields.io/badge/-Not_Registered-darkred)]() |
 | CB.EN.U4CYS22069    | Mothe Anurag Reddy                        | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22070    | Nandana Mahesh                            | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22071    | Anagh Shaji Plamoottukada                 | [![](https://img.shields.io/badge/-Date-)]() |
