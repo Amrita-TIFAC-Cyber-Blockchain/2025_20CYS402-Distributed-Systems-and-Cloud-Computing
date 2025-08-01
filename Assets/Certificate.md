@@ -44,7 +44,7 @@
 | CB.EN.U4CYS22039    | Marri Sanju                               | Module 2 Completed. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22040    | Midhrujayan K                             | Module 2 Completed. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22041    | Mukund Kumarappan S                       | Module 1 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22042    | N.Meera                                   | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22042    | N.Meera                                   | Module 1 Completed. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22043    | Namitha Sudhishkumar Nair                 | Module 5 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22044    | Navarang C D                              | Module 3 Completed. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22045    | Nedurumalli Vedvarshith                   | Module 2 Completed. [![](https://img.shields.io/badge/-Date-)]() |
@@ -64,16 +64,16 @@
 | CB.EN.U4CYS22061    | Sree Sharvesh S S                         | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22062    | Shravan Krishnan.G                        | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22063    | Vajjula Satya Siddardha                   | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22064    | Yallanuru Kishan Sai                      | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22064    | Yallanuru Kishan Sai                      | Module 3 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22065    | Kolluru Sai Supraj                        | [![](https://img.shields.io/badge/-Not_Registered-darkred)]() |
-| CB.EN.U4CYS22066    | Parvathi S                                | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22067    | Amita Narayanan Kutty                     | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22066    | Parvathi S                                | Module 2 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22067    | Amita Narayanan Kutty                     | Module 4 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22068    | Mukesh R                                  | [![](https://img.shields.io/badge/-Not_Registered-darkred)]() |
-| CB.EN.U4CYS22069    | Mothe Anurag Reddy                        | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22070    | Nandana Mahesh                            | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22071    | Anagh Shaji Plamoottukada                 | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22072    | Rudra Sri Lakshmi                         | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22073    | Vishal R S                                | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22074    | B. Vijay Nishanth                         | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22075    | Vishal S                                  | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22076    | Tangella Sree Chandan                     | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22069    | Mothe Anurag Reddy                        | [![](https://img.shields.io/badge/-Completed-gold)]()  |
+| CB.EN.U4CYS22070    | Nandana Mahesh                            | Module 2 Completed. [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22071    | Anagh Shaji Plamoottukada                 | Module 3 Completed. [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22072    | Rudra Sri Lakshmi                         | Module 2 Completed. [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22073    | Vishal R S                                | Module 2 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22074    | B. Vijay Nishanth                         | Module 2 Completed. [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22075    | Vishal S                                  | Module 3 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22076    | Tangella Sree Chandan                     | Module 1 Completed. [![](https://img.shields.io/badge/-Date-)]() |
