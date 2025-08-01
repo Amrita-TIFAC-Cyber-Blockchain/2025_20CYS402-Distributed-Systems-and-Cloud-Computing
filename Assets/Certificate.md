@@ -52,18 +52,18 @@
 | CB.EN.U4CYS22047    | Pillimetla Vamsi                          | Module 1 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22048    | Palakurty Roopak Naga Venkata Sree Sai    | Module 2 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22049    | Pavan Shanmukha Madhav Gunda              | Module 1 Completed, Quiz is Pending [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22050    | R M Naren Adithya                         | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22050    | R M Naren Adithya                         | Module 2 Completed. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22051    | R Sruthi                                  | [![](https://img.shields.io/badge/-Not_Registered-darkred)]() |
-| CB.EN.U4CYS22052    | Rahul Shankar V                           | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22052    | Rahul Shankar V                           | [![](https://img.shields.io/badge/-Completed-gold)]() |
 | CB.EN.U4CYS22053    | Rathnesh R                                | [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22055    | Ramraj S                                  | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22056    | Reddicherla Thanuj                        | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22057    | S Mohana Vamsi                            | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22056    | Reddicherla Thanuj                        | Module 2 Completed. [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22057    | S Mohana Vamsi                            | Module 1 Completed. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22059    | Saride Someswara Sai Sri Chakri           | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22060    | Shree Harini T                            | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22060    | Shree Harini T                            | [![](https://img.shields.io/badge/-Completed-gold)]() |
 | CB.EN.U4CYS22061    | Sree Sharvesh S S                         | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22062    | Shravan Krishnan.G                        | [![](https://img.shields.io/badge/-Date-)]() |
-| CB.EN.U4CYS22063    | Vajjula Satya Siddardha                   | [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22062    | Shravan Krishnan.G                        | Module 1 Completed. [![](https://img.shields.io/badge/-Date-)]() |
+| CB.EN.U4CYS22063    | Vajjula Satya Siddardha                   | Module 1 Completed, Quiz is Pending [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22064    | Yallanuru Kishan Sai                      | Module 3 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
 | CB.EN.U4CYS22065    | Kolluru Sai Supraj                        | [![](https://img.shields.io/badge/-Not_Registered-darkred)]() |
 | CB.EN.U4CYS22066    | Parvathi S                                | Module 2 In Progress. [![](https://img.shields.io/badge/-Date-)]() |
