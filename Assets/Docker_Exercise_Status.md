@@ -52,18 +52,18 @@
 | CB.EN.U4CYS22047    | Pillimetla Vamsi                          | [pillimetlavamsi](https://hub.docker.com/u/pillimetlavamsi) |  ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) |
 | CB.EN.U4CYS22048    | Palakurty Roopak Naga Venkata Sree Sai    | [Roopak28](https://hub.docker.com/u/Roopak28) |  ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) | 
 | CB.EN.U4CYS22049    | Pavan Shanmukha Madhav Gunda              | [shanxm](https://hub.docker.com/u/shanxm) |  ![](https://img.shields.io/badge/-Completed-gold) | | ![](https://img.shields.io/badge/-Completed-gold) |
-| CB.EN.U4CYS22050    | R M Naren Adithya                         | [narenadithya](https://hub.docker.com/u/narenadithya) |  ![](https://img.shields.io/badge/-Completed-gold) |
+| CB.EN.U4CYS22050    | R M Naren Adithya                         | [narenadithya](https://hub.docker.com/u/narenadithya) |  ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) |   ![](https://img.shields.io/badge/-Completed-gold) |  
 | CB.EN.U4CYS22051    | R Sruthi                                  | [sruthi2004](https://hub.docker.com/u/sruthi2004) |
-| CB.EN.U4CYS22052    | Rahul Shankar V                           | [rahulshankarv](https://hub.docker.com/u/rahulshankarv) |  ![](https://img.shields.io/badge/-Completed-gold) |
+| CB.EN.U4CYS22052    | Rahul Shankar V                           | [rahulshankarv](https://hub.docker.com/u/rahulshankarv) | ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) |   ![](https://img.shields.io/badge/-Completed-gold) |  
 | CB.EN.U4CYS22053    | Rathnesh R                                | [rathneshr](https://hub.docker.com/u/rathneshr) |
 | CB.EN.U4CYS22055    | Ramraj S                                  | [RamrajS](https://hub.docker.com/u/RamrajS) |  ![](https://img.shields.io/badge/-Completed-gold) |
-| CB.EN.U4CYS22056    | Reddicherla Thanuj                        | [thanujj](https://hub.docker.com/u/thanujj) |
-| CB.EN.U4CYS22057    | S Mohana Vamsi                            | [mohanvamsi06](https://hub.docker.com/u/mohanvamsi06) |
+| CB.EN.U4CYS22056    | Reddicherla Thanuj                        | [thanujjj](https://hub.docker.com/u/thanujjj) |  ![](https://img.shields.io/badge/-Completed-gold) |  ![](https://img.shields.io/badge/-Completed-gold) |  ![](https://img.shields.io/badge/-Completed-gold) |
+| CB.EN.U4CYS22057    | S Mohana Vamsi                            | [mohanvamsi06](https://hub.docker.com/u/mohanvamsi06) | ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) |   ![](https://img.shields.io/badge/-Completed-gold) |  
 | CB.EN.U4CYS22059    | Saride Someswara Sai Sri Chakri           | [chakri07](https://hub.docker.com/u/chakri07) |
-| CB.EN.U4CYS22060    | Shree Harini T                            | [parzimes](https://hub.docker.com/u/parzimes) |
-| CB.EN.U4CYS22061    | Sree Sharvesh S S                         | [sharvesh27](https://hub.docker.com/u/sharvesh27) |
-| CB.EN.U4CYS22062    | Shravan Krishnan.G                        | [shravankrishnan](https://hub.docker.com/u/shravankrishnan) |  ![](https://img.shields.io/badge/-Completed-gold) |
-| CB.EN.U4CYS22063    | Vajjula Satya Siddardha                   | [siddhuvajjula](https://hub.docker.com/u/siddhuvajjula) |
+| CB.EN.U4CYS22060    | Shree Harini T                            | [parzimes](https://hub.docker.com/u/parzimes) | ![](https://img.shields.io/badge/-Completed-gold) | Internship | Intership |
+| CB.EN.U4CYS22061    | Sree Sharvesh S S                         | [sharvesh27](https://hub.docker.com/u/sharvesh27) | ![](https://img.shields.io/badge/-Completed-gold) | | |
+| CB.EN.U4CYS22062    | Shravan Krishnan.G                        | [shravankrishnan](https://hub.docker.com/u/shravankrishnan) |  ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) |
+| CB.EN.U4CYS22063    | Vajjula Satya Siddardha                   | [siddhuvajjula](https://hub.docker.com/u/siddhuvajjula) | ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) |
 | CB.EN.U4CYS22064    | Yallanuru Kishan Sai                      | [kishansai](https://hub.docker.com/u/kishansai) |  ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) | ![](https://img.shields.io/badge/-Completed-gold) |
 | CB.EN.U4CYS22065    | Kolluru Sai Supraj                        | [Saisupraj](https://hub.docker.com/u/Saisupraj) | ![](https://img.shields.io/badge/-Completed-gold) |  | ![](https://img.shields.io/badge/-Completed-gold) | 
 | CB.EN.U4CYS22066    | Parvathi S                                | [ParvathiS066](https://hub.docker.com/u/ParvathiS066) |  ![](https://img.shields.io/badge/-Completed-gold) |  ![](https://img.shields.io/badge/-Completed-gold) |  ![](https://img.shields.io/badge/-Completed-gold) |
