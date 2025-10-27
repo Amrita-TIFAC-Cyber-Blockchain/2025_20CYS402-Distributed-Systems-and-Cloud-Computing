@@ -8,8 +8,13 @@
 	- Privacy and Encryption ([Source](https://docs.ipfs.tech/concepts/privacy-and-encryption/#what-s-public-on-ipfs)) 
 	- IPFS Comparisons ([Source](https://docs.ipfs.tech/concepts/comparisons/#comparing-the-key-features-of-other-solutions-to-ipfs))
 - RAFT Consensus Algorithm ([Source](https://thesecretlivesofdata.com/raft/))
-- Hadoop 
+- Hadoop ([Source](https://www.youtube.com/watch?v=29O3CCYOzic))
+- NIST Cloud Reference Architecture ([Source](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-292.pdf))
+	- Cloud Models
+ 	- Deployment Methods
+- Virtualiztion ([Source](https://www.youtube.com/watch?v=R4spydpBbYk))
+- Palo Alto Course on Fundamentals on Cloud Security ([Source](https://paloaltonetworksacademy.net/enrol/instances.php?id=4868 ))
 
 ## Particals
-- Docker Building
-- IPFS and IPFS Swarm 
+- Custom Docker Creation
+- Private IPFS and IPNS 
