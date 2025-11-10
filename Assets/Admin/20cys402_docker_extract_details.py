@@ -21,6 +21,12 @@ DETAILS_FILE = "dockerhub_repo_metadata.csv"
 SUMMARY_FILE = "dockerhub_user_summary.csv"
 API_URL_TEMPLATE = "https://hub.docker.com/v2/repositories/{username}/?page_size=100"
 
+def extract_date_only(datetime_str):
+    """Extract just the date (YYYY-MM-DD) from an ISO timestamp."""
+    if datetime_str and isinstance(datetime_str, str):
+        return datetime_str.split("T")[0]
+    return "N/A"
+
 def get_user_repositories(username):
     repos = []
     url = API_URL_TEMPLATE.format(username=username)
@@ -35,8 +41,9 @@ def get_user_repositories(username):
                 "username": username,
                 "repository_name": repo.get("name", ""),
                 "image_link": f"https://hub.docker.com/r/{username}/{repo.get('name', '')}",
-                "created_at": repo.get("created_at", "N/A"),
-                "last_updated": repo.get("updated_at", "N/A"),
+                "created_at": extract_date_only(repo.get("date_registered")),
+                "last_updated": extract_date_only(repo.get("last_updated")),  # Docker Hub field
+                "last_modified": extract_date_only(repo.get("last_modified")),  # Explicit field
                 "pull_count": repo.get("pull_count", 0) or 0,
                 "star_count": repo.get("star_count", 0) or 0,
                 "description": repo.get("description", "").strip() if repo.get("description") else ""
@@ -49,6 +56,7 @@ all_repos = []
 user_summary = []
 
 for user in usernames:
+    user = user.strip()  # remove accidental spaces
     print(f"🔍 Fetching repositories for {user}...")
     repos = get_user_repositories(user)
     all_repos.extend(repos)
@@ -63,7 +71,8 @@ for user in usernames:
 with open(DETAILS_FILE, "w", newline="", encoding="utf-8") as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=[
         "username", "repository_name", "image_link",
-        "created_at", "last_updated", "pull_count", "star_count", "description"
+        "created_at", "last_updated", "last_modified",
+        "pull_count", "star_count", "description"
     ])
     writer.writeheader()
     writer.writerows(all_repos)
