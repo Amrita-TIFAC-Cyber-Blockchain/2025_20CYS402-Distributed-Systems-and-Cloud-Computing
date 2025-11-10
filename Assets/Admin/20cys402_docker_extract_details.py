@@ -6,13 +6,13 @@ usernames = [
     "adarshrk568", "adithyans636", "agil2004", "aish2913", "amalpromass", "darkstorm22",
     "anaswarasureshmk", "lol0lol", "cbenu4cys22009", "AadhithyaSiv", "Akshit404", "dockerthingy123",
     "sai150404", "prem011", "rishi3161", "ams7", "VyshaliChitla", "charank1904", "hansicachinni",
-    "firestrom", "dharshisakthi", "hamsinig", "VettrivelGanappathi", "gunateet", "hemupc",
+    "firestrom", "dharshisakthi", "ghamsini", "VettrivelGanappathi", "gunateet", "hemupc",
     "harshith1201", "jphemanthkumaar", "joserohit264", "joshua2004", "jeeshitha", "krishna12345678",
     "22034", "kaushik7251", "Logesh0107", "lalitha14", "tejas610", "sanjumarri7", "Midhru",
     "mukundkumarappan", "meera042", "namitha0710", "navarang", "varshith78", "parthivkumarnikku",
     "pillimetlavamsi", "Roopak28", "shanxm", "narenadithya", "sruthi2004", "rahulshankarv",
     "rathneshr", "RamrajS", "thanujjj", "mohanvamsi06", "chakri07", "parzimes", "sharvesh27",
-    "shravankrishnan", "siddhuvajjula", "kishansai", "Saisupraj", "ParvathiS066", "AmitaNK67",
+    "shravankrishnan", "siddhuvajjula", "kishansai", "Saisupraj", "ParvathiS066", "amitank67",
     "mukesher4", "Anurag018", "nandanamahesh", "shajianagh", "srilakshmi2277", "vichushan",
     "vijaynishanth07", "vishalyeskay", "chandan22076"
 ]
@@ -59,3 +59,4 @@ with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as csvfile:
     writer.writerows(all_repos)
 
 print(f"\n✅ Done! {len(all_repos)} repositories saved to {OUTPUT_FILE}")
+
